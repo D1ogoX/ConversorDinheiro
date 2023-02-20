@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversorDinheiro.API", "ConversorDinheiro.API\ConversorDinheiro.API.csproj", "{951CF5E4-9285-411C-B5C0-98182FDF8E61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversorDinheiro.APP", "ConversorDinheiro.APP\ConversorDinheiro.APP.csproj", "{A82B139B-8E89-4355-B231-885F4D775409}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{951CF5E4-9285-411C-B5C0-98182FDF8E61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{951CF5E4-9285-411C-B5C0-98182FDF8E61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{951CF5E4-9285-411C-B5C0-98182FDF8E61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{951CF5E4-9285-411C-B5C0-98182FDF8E61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A82B139B-8E89-4355-B231-885F4D775409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A82B139B-8E89-4355-B231-885F4D775409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A82B139B-8E89-4355-B231-885F4D775409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A82B139B-8E89-4355-B231-885F4D775409}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1F20F0B-6650-4CAD-8111-6F079966C878}
+	EndGlobalSection
+EndGlobal
